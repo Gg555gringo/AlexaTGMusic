@@ -70,7 +70,7 @@ __HELP__ = """
 /settings 
 - Get Settings button.
 
-- ᴘᴏᴡᴇʀᴅ ʙʏ 😍 ʀᴏᴄᴋs ᴀɴᴅ @AsadSupport.
+- ᴘᴏᴡᴇʀᴅ ʙʏ 😍 ʀᴏᴄᴋs ᴀɴᴅ @gringomdz.
 """
 
 
@@ -168,7 +168,7 @@ async def useradd(_, message: Message):
                 [
                     InlineKeyboardButton(
                         "➕ ❰ ᴀᴅᴅ ᴀʟᴇxᴀ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ❱ ➕",
-                        url=f"https://t.me/Asad_Music_Bot?startgroup=true",
+                        url=f"https://t.me/MdzHelpBot?startgroup=true",
                     )
                 ]
             ]
@@ -191,7 +191,7 @@ async def useradd(_, message: Message):
                 [
                     InlineKeyboardButton(
                         "💥 ᴊᴏɪɴ ʜᴇʀᴇ ᴀɴᴅ sᴜᴘᴘᴏʀᴛ 💞",
-                        url=f"https://t.me/Shayri_Music_Lovers",
+                        url=f"https://t.me/gringomdz",
                     )
                 ]
             ]
