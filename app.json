@@ -10,17 +10,17 @@
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "",
+      "value": "27189014",
       "required": true
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "",
+      "value": "8c3f19dc3515be24c6ce0115b9704174",
       "required": true
     },
     "BOT_TOKEN": {
       "description": "A Bot's token from Botfather",
-      "value": "",
+      "value": "5952944987:AAHxRCwbiAo01uYHsEnkZMjE7TTxf6DYvQk",
       "required": true
     },
     "DURATION_LIMIT": {
@@ -30,22 +30,22 @@
     },
     "MONGO_DB_URI": {
       "description": "Mongo DB URL",
-      "value": "",
+      "value": "mongodb+srv://gringomdz:gringomdz99@cluster0.2kg2um9.mongodb.net/?retryWrites=true&w=majority",
       "required": true
     },
     "MUSIC_BOT_NAME": {
       "description": "A name for your Music Bot.",
-      "value": "Asad_Music_Bot",
+      "value": "MdzMusic",
       "required": true
     },
     "SUPPORT_CHANNEL": {
       "description": "Support Channel Link if you have any, Leave blank if no support. Your link must start with https://t.me/",
-      "value": "AsadSupport",
+      "value": "gringomdz",
       "required": false
     },
     "SUPPORT_GROUP": {
       "description": "Support Group Link if you have any, Leave blank if no support. Your link must start with https://t.me/",
-      "value": "Shayri_Music_Lovers",
+      "value": "pratest21",
       "required": false
     },
     "OWNER_ID": {
@@ -55,7 +55,7 @@
     },
     "STRING_SESSION1": {
       "description": "A Pyrogram String Session. One Assistant is Compulsory.",
-      "value": "",
+      "value": "AQGe3xYAxlYbMB7motG5DyRbscUmNra5cOEm7zMV1sSLICYSbQtqUcVw589mCxCl2OWSvB9M0fcb9MDpVqnTrXfEAnfwCAtMZHg9yihzn4FVk80Mvm0cnthyHopk0_w3DNu_dJShP5YTQge_SBOBfBbRfyUB7fwmmUR5B5aEFQa5caqxmCHMWPgAE7PhlKlAz9DQ4kVHnbW-oZiIb32uWdiaOvZmNMb-W2QZqlFysO2IQaaYTpXKgx6TirKoXYlJEYKhZhKGmpQ4SLIA8spKMHCEQ2nFheC-sMP8lW1PGrmzJRPUUEtUdhIAfrvy3Ud1wjdbKVc384Uee5zWVX5NSL1mckMb7wAAAAFcUkyRAA",
       "required": true
     },
     "STRING_SESSION2": {
@@ -80,32 +80,32 @@
     },
     "HEROKU_API_KEY": {
       "description": "Your Heroku account's API key",
-      "value": "",
+      "value": "525d3730-7730-48ee-896c-6a6efc91b212",
       "required": false
     },
     "HEROKU_APP_NAME": {
       "description": "Your heroku app/bot's name",
-      "value": "",
+      "value": "mdzmusic",
       "required": false
     },
     "LOG_GROUP_ID": {
       "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Use only Group. Please don't use Channel ID.",
-      "value": "-1001717283097",
+      "value": "-1001640518799",
       "required": true
     },
     "SUDO_USERS": {
       "description": "The user id(s) of user(s) whom you would like to add as a SUDO. Multiple values shall be seperated with a space.",
-      "value": "",
+      "value": "5012010632",
       "required": true
     },
     "LOG_SESSION": {
       "description": "A Pyrogram String Session for LOGGING or u can also add STRING_SESSION1 Also.",
-      "value": "",
+      "value": "AQGe3xYAxlYbMB7motG5DyRbscUmNra5cOEm7zMV1sSLICYSbQtqUcVw589mCxCl2OWSvB9M0fcb9MDpVqnTrXfEAnfwCAtMZHg9yihzn4FVk80Mvm0cnthyHopk0_w3DNu_dJShP5YTQge_SBOBfBbRfyUB7fwmmUR5B5aEFQa5caqxmCHMWPgAE7PhlKlAz9DQ4kVHnbW-oZiIb32uWdiaOvZmNMb-W2QZqlFysO2IQaaYTpXKgx6TirKoXYlJEYKhZhKGmpQ4SLIA8spKMHCEQ2nFheC-sMP8lW1PGrmzJRPUUEtUdhIAfrvy3Ud1wjdbKVc384Uee5zWVX5NSL1mckMb7wAAAAFcUkyRAA",
       "required": true
     },
     "UPSTREAM_REPO": {
       "description": "If you dont know this, Leave as it is",
-      "value": "https://github.com/jankarikiduniya/AlexaMusic",
+      "value": "https://github.com/Gg555gringo/AlexaTGMusic",
       "required": true
     },
     "UPSTREAM_BRANCH": {
@@ -128,7 +128,7 @@
     "formation": {
         "worker": {
             "quantity": 1,
-            "size": "free"
+            "size": "Eco"
         }
     },
     "stack": "container"
